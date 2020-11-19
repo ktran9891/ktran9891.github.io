@@ -16,6 +16,7 @@ My PhD research began with the objective of mitigating climate change by looking
 It has since focused on accomplishing that goal by designing and using strategies for automated materials/catalyst discovery.
 These strategies involve the melding of theoretical chemistry, high performance computing, machine learning, statistics, and software engineering.
 This work has since spun out into several projects, including [The Open Catalyst Project](https://opencatalystproject.org/)---a collaboration between [Facebook's AI Research](https://ai.facebook.com/) group and the [Ulissi Group](https://ulissigroup.cheme.cmu.edu/).
+You can also check out an interview I did on [This Week in Machine Learning and AI](https://twimlai.com/twiml-talk-238-active-learning-for-materials-design-with-kevin-tran/) during my 2nd year.
 
 Before my PhD, I worked at [W.L. Gore & Associates](https://www.gore.com/) for five years as a process engineer.
 I worked in their Core Technology division helping create implantable medical devices, such as bioresorbable hernia patches or stent-grafts.
