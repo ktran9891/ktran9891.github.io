@@ -18,9 +18,9 @@ These strategies involve the melding of theoretical chemistry, high performance 
 This work has since spun out into several projects, including [The Open Catalyst Project](https://opencatalystproject.org/)---a collaboration between [Facebook's AI Research](https://ai.facebook.com/) group and the [Ulissi Group](https://ulissigroup.cheme.cmu.edu/).
 
 Before my PhD, I worked at [W.L. Gore & Associates](https://www.gore.com/) for five years as a process engineer.
-I worked in their Core Technology division helping create implantable medical devices, such as [bioresorbable] hernia patches or stent-grafts.
+I worked in their Core Technology division helping create implantable medical devices, such as bioresorbable hernia patches or stent-grafts.
 I did this by leading and executing a variety of projects that spanned from new product development, process validation, equipment design, to processing research.
-These projects gave me first-hand experience with applied statistics, materials science, biology, regulated quality systems, and project management.
+These projects gave me first-hand experience with applied statistics, materials science, biomedical engineering, regulated quality systems, and project management.
 
 Before working, I graduated from the University of Delaware in 2011 under the research advisement of [Babatunde Ogunnaike](https://cbe.udel.edu/people/faculty/ogunnaike/).
 Although my coursework focused on sustainable energy technologies, my research focused on biopharmaceutical applications.
