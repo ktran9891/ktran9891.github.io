@@ -34,4 +34,4 @@ I also received a minor in philosophy from the University of Delaware with a spe
 
 Outside of my day job, I enjoy being with family, playing with my nieces, cooking/eating, shooting pool, playing ultimate frisbee, practicing yoga, and rock climbing.
 
-_Updated on 27 April 2021
+Updated on 27 April 2021
