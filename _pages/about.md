@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a family man, an [effective altruist](https://en.wikipedia.org/wiki/Effective_altruism), and a nerd searching for my [ikigai](https://medium.com/thrive-global/ikigai-the-japanese-secret-to-a-long-and-happy-life-might-just-help-you-live-a-more-fulfilling-9871d01992b7) (or Zuzunaga purpose, [to be more precise](https://ikigaitribe.com/ikigai/ikigai-misunderstood/)).
+I am a family man, an [effective altruist](https://en.wikipedia.org/wiki/Effective_altruism), and a nerd searching for my ikigai (or Zuzunaga purpose, [to be more precise](https://ikigaitribe.com/ikigai/ikigai-misunderstood/)).
 My career, experiences, passions, and motivations all reflect these core values.
 
 To that end, I am currently a senior scientist at [Schrodinger](https://www.schrodinger.com/).
