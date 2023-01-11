@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Kevin Tran"
   avatar           : "profile.png"
-  bio              : "Senior Scientist at Schrodinger"
-  location         : "Lyndhurst, NJ, USA"
+  bio              : "Senior Research Scientist at Toyota Research Institute"
+  location         : "Bloomfield, NJ, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=qBDarDsAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=iOd3nZcAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

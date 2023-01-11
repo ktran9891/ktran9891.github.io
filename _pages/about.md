@@ -11,9 +11,14 @@ redirect_from:
 I am a family man, an [effective altruist](https://en.wikipedia.org/wiki/Effective_altruism), and a nerd searching for my ikigai (or Zuzunaga purpose, [to be more precise](https://ikigaitribe.com/ikigai/ikigai-misunderstood/)).
 My career, experiences, passions, and motivations all reflect these core values.
 
-To that end, I am currently a senior scientist at [Schrodinger](https://www.schrodinger.com/).
-I develop and maintain the software that scientists use to perform, manage, and analyze computer simulations of materials.
-We use these simulations to help scientists discover and optimize new materials for several applications.
+To that end, I am currently a senior research scientist in [Toyota Research Institute](https://www.tri.global/)'s Energy & Materials division.
+Our vision is to mitigate the effects of climate change by advancing sustainable energy technologies.
+We do this by accelerating materials discovery for mobility applications.
+Specifically:  I am creating closed-loop systems for automating discovery of improved materials and conditions for fuel cells, batteries, and other applications.
+
+I also spent time at [Schrodinger](https://www.schrodinger.com/) as a software developer.
+While there, I developed and maintained software for scientists use to perform, manage, and analyze computer simulations of materials.
+We used these simulations to help scientists discover and optimize new materials for several applications.
 
 Between 2016 and 2021, I obtained my PhD in Chemical Engineering at Carnegie Mellon University under the advisement of [Zack Ulissi](https://ulissigroup.cheme.cmu.edu/).
 My PhD research began with the objective of mitigating climate change by looking for catalysts to produce [solar fuels and chemicals](https://en.wikipedia.org/wiki/Solar_fuel).
@@ -27,11 +32,11 @@ I worked in their Core Technology division helping create implantable medical de
 I did this by leading and executing a variety of projects that spanned from new product development, process validation, equipment design, to processing research.
 These projects gave me first-hand experience with applied statistics, materials science, biomedical engineering, regulated quality systems, and project management.
 
-Before working, I graduated from the University of Delaware in 2011 under the research advisement of [Babatunde Ogunnaike](https://cbe.udel.edu/people/faculty/ogunnaike/).
+Before working, I graduated from the University of Delaware in 2011 under the research advisement of [Babatunde Ogunnaike](https://en.wikipedia.org/wiki/Babatunde_Ogunnaike).
 Although my coursework focused on sustainable energy technologies, my research focused on biopharmaceutical applications.
 Specifically, I assessed the feasibility of antibody quality control by performing sensitivity analyses on microkinetic models of glycosylation.
-I also received a minor in philosophy from the University of Delaware with a special interest in the teachings of [Alan Fox](https://udel.edu/~afox/).
+I also received a minor in philosophy from the University of Delaware with a special interest in the teachings of [Alan Fox](https://www.udel.edu/udaily/2020/april/alan-fox/).
 
 Outside of my day job, I enjoy being with family, playing with my nieces, cooking/eating, shooting pool, playing ultimate frisbee, practicing yoga, and rock climbing.
 
-Updated on 27 April 2021
+Updated on 11 January 2023
