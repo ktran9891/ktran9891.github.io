@@ -11,10 +11,10 @@ redirect_from:
 I am a family man, an [effective altruist](https://en.wikipedia.org/wiki/Effective_altruism), and a nerd searching for my ikigai (or Zuzunaga purpose, [to be more precise](https://ikigaitribe.com/ikigai/ikigai-misunderstood/)).
 My career, experiences, passions, and motivations all reflect these core values.
 
-To that end, I am currently a senior research scientist in [Toyota Research Institute](https://www.tri.global/)'s Energy & Materials division.
+To that end, I am currently a staff research scientist in [Toyota Research Institute](https://www.tri.global/)'s Energy & Materials division.
 Our vision is to mitigate the effects of climate change by advancing sustainable energy technologies.
 We do this by accelerating materials discovery for mobility applications.
-Specifically:  I am creating closed-loop systems for automating discovery of improved materials and conditions for fuel cells, batteries, and other applications.
+Specifically:  I am creating causal learning tools to accelerate the discovery of mechanistic insights for sustainable energy technologies such as fuel cells or batteries.
 
 I also spent time at [Schrodinger](https://www.schrodinger.com/) as a software developer.
 While there, I developed and maintained software for scientists use to perform, manage, and analyze computer simulations of materials.
@@ -39,4 +39,4 @@ I also received a minor in philosophy from the University of Delaware with a spe
 
 Outside of my day job, I enjoy being with family, playing with my nieces, cooking/eating, shooting pool, playing ultimate frisbee, practicing yoga, and rock climbing.
 
-Updated on 11 January 2023
+Updated on 2025 August 07
